@@ -7,7 +7,7 @@ Downloads the corresponding size depending on your current monitor
 <h2>Dependenicies</h2>
 Must have PyWin32 installed as well as feedparser
 
-<h3>Reccommended use</h3>
+<h3>Recommended Use</h3>
 I reccomend creating a script that launches this program and put it into the startup folder. Then, you will get to enjoy a new background every few days.
 
 <h3>Questions?</h3>
